@@ -41,7 +41,7 @@ This repository contains both the code of the final application and a collection
 
 ### Benchmark scripts
 
-* **BenchmarkSecondeVOORKEUR_1%.cs**
+* **Benchmark.cs**
   Benchmarking script used to measure FPS performance and stability of the different visualization techniques evaluated in the thesis.
 
 ### Data preparation scripts
