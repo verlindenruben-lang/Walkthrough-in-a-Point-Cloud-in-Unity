@@ -62,5 +62,5 @@ The scripts in this repository were developed during the research and implementa
 ## Author
 
 **Ruben Verlinden**
-Master of Science in Engineering Technology – Geomatics
+Master of Science in Engineering – Geomatics
 KU Leuven
