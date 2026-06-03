@@ -33,11 +33,11 @@ This repository contains both the code of the final application and a collection
 
 ### Rendering scripts
 
-* **PointCloudRenderer.cs**
-  Responsible for rendering point cloud data inside Unity.
+- **PointCloudRenderer.cs**  
+  Responsible for loading and rendering point cloud data using Unity's **VFX Graph** implementation.
 
-* **VoxelRenderer.cs**
-  Experimental renderer used during the evaluation of alternative visualization methods.
+- **VoxelRenderer.cs**  
+  Responsible for loading and rendering point cloud data using Unity's **Particle System** implementation.
 
 ### Benchmark scripts
 
