@@ -1,5 +1,8 @@
 # Walkthrough-in-a-Point-Cloud-in-Unity
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c04f773-6e46-4ceb-b87c-50338e80e2fb" />
+
+
 This repository contains the source code and supporting scripts developed as part of a Master's thesis at KU Leuven (Geomatics). The research focuses on the real-time visualization of large point clouds in Unity and the creation of interactive walkthroughs through scanned environments.
 
 ## Application
