@@ -12,7 +12,9 @@ The developed application allows users to:
 * Generate smooth camera walkthroughs through scanned environments.
 * Export walkthroughs as MP4 videos.
 
-The latest executable version of the application can be downloaded from the **Releases** section of this repository.
+The complete application package, including the executable, supporting files, and example data used during the thesis, is available through the following download link:
+
+https://kuleuven-my.sharepoint.com/:f:/g/personal/ruben_verlinden_student_kuleuven_be/IgA5mEUNPYgRT5TQ3cG-JkkwAf0-uL-XI_vsRxo0y2MiAdQ?e=46qz0F
 
 ## Repository contents
 
